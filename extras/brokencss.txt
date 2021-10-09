@@ -1,0 +1,18 @@
+<Form.Group>
+  <Form.Input label="Name" placeholder="Enter Name" width={4} />
+  <Form.Input
+    label="Identity Card Number"
+    placeholder="N.I.C Number"
+    width={4}
+  />
+  <Form.Input label="Zone" placeholder="Enter P.S. Zone" width={4} />
+</Form.Group>
+<Form.Group>
+  <Form.Input
+    label="Address"
+    placeholder="Enter Address"
+    width={12}
+  />
+</Form.Group>
+
+ *** ABOVE STYLE FOR THE FORM ***
